@@ -1,0 +1,349 @@
+{"name": "Bellagio Las Vegas", "price": "168€", "avg_review": 4.0, "reviewCount": "23 788"}
+{"name": "The Venetian Resort", "price": "228€", "avg_review": 4.5, "reviewCount": "30 859"}
+{"name": "Caesars Palace", "price": "197€", "avg_review": 4.5, "reviewCount": "26 308"}
+{"name": "ARIA Resort & Casino", "price": "279€", "avg_review": 4.5, "reviewCount": "32 082"}
+{"name": "Paris Las Vegas", "price": "183€", "avg_review": 4.0, "reviewCount": "35 853"}
+{"name": "The Cosmopolitan of Las Vegas, Autograph Collection", "price": "188€", "avg_review": 4.5, "reviewCount": "1 529"}
+{"name": "Mandalay Bay Resort & Casino", "price": "110€", "avg_review": 4.0, "reviewCount": "10 932"}
+{"name": "Westgate Las Vegas Resort & Casino", "price": "47€", "avg_review": 4.0, "reviewCount": "6 432"}
+{"name": "Luxor Hotel & Casino", "price": "72€", "avg_review": 3.5, "reviewCount": "43 094"}
+{"name": "Planet Hollywood Resort & Casino", "price": "113€", "avg_review": 4.0, "reviewCount": "30 668"}
+{"name": "Wynn Las Vegas", "price": "252€", "avg_review": 4.5, "reviewCount": "26 899"}
+{"name": "MGM Grand Las Vegas", "price": "91€", "avg_review": 4.0, "reviewCount": "29 565"}
+{"name": "Bally's Las Vegas Hotel & Casino", "price": "136€", "avg_review": 4.0, "reviewCount": "26 955"}
+{"name": "Vdara Hotel & Spa at ARIA Las Vegas", "price": "103€", "avg_review": 4.5, "reviewCount": "20 092"}
+{"name": "The Mirage Hotel & Casino", "price": "106€", "avg_review": 4.0, "reviewCount": "25 194"}
+{"name": "New York - New York Hotel and Casino", "price": "72€", "avg_review": 4.0, "reviewCount": "22 830"}
+{"name": "The STRAT Hotel, Casino & SkyPod", "price": "44€", "avg_review": 3.5, "reviewCount": "14 561"}
+{"name": "The LINQ Hotel & Casino", "price": "76€", "avg_review": 4.0, "reviewCount": "17 398"}
+{"name": "Treasure Island - TI Hotel & Casino, a Radisson Hotel", "price": "101€", "avg_review": 4.0, "reviewCount": "16 964"}
+{"name": "Flamingo Las Vegas Hotel & Casino", "price": "80€", "avg_review": 3.5, "reviewCount": "44 288"}
+{"name": "Red Rock Casino Resort & Spa", "price": "185€", "avg_review": 4.5, "reviewCount": "4 730"}
+{"name": "SAHARA Las Vegas", "price": "66€", "avg_review": 4.0, "reviewCount": "1 324"}
+{"name": "Tuscany Suites & Casino", "price": "68€", "avg_review": 4.0, "reviewCount": "5 134"}
+{"name": "The D Casino Hotel Las Vegas", "price": "44€", "avg_review": 4.0, "reviewCount": "3 440"}
+{"name": "Four Queens Hotel and Casino", "price": "61€", "avg_review": 3.5, "reviewCount": "3 074"}
+{"name": "Excalibur Hotel & Casino", "price": "60€", "avg_review": 3.5, "reviewCount": "12 819"}
+{"name": "OYO Hotel and Casino Las Vegas", "price": "44€", "avg_review": 3.5, "reviewCount": "2 709"}
+{"name": "Circus Circus Hotel & Casino Las Vegas", "price": "60€", "avg_review": 3.5, "reviewCount": "13 985"}
+{"name": "Golden Nugget Hotel & Casino", "price": "64€", "avg_review": 4.0, "reviewCount": "13 204"}
+{"name": "Rio All-Suite Hotel & Casino", "price": "60€", "avg_review": 3.5, "reviewCount": "23 716"}
+{"name": "Trump International Hotel Las Vegas", "price": "145€", "avg_review": 4.5, "reviewCount": "14 368"}
+{"name": "Signature at MGM Grand", "price": "194€", "avg_review": 4.5, "reviewCount": "15 486"}
+{"name": "Polo Towers Suites", "price": "261€", "avg_review": 4.0, "reviewCount": "3 245"}
+{"name": "Tahiti Village", "price": "123€", "avg_review": 4.0, "reviewCount": "3 897"}
+{"name": "Encore At Wynn Las Vegas", "price": "252€", "avg_review": 4.5, "reviewCount": "18 580"}
+{"name": "The Palazzo at The Venetian", "price": "228€", "avg_review": 4.5, "reviewCount": "18 626"}
+{"name": "La Quinta Inn & Suites by Wyndham Las Vegas Airport South", "price": "104€", "avg_review": 4.5, "reviewCount": "2 299"}
+{"name": "Delano Las Vegas", "price": "115€", "avg_review": 4.0, "reviewCount": "6 180"}
+{"name": "Harrah's Las Vegas Hotel & Casino", "price": "99€", "avg_review": 4.0, "reviewCount": "16 777"}
+{"name": "Hilton Grand Vacations on the Las Vegas Strip", "price": "174€", "avg_review": 4.0, "reviewCount": "6 448"}
+{"name": "Plaza Hotel & Casino", "price": "53€", "avg_review": 3.5, "reviewCount": "7 588"}
+{"name": "Suncoast Hotel and Casino", "price": "89€", "avg_review": 4.0, "reviewCount": "1 254"}
+{"name": "Park MGM Las Vegas", "price": "79€", "avg_review": 3.5, "reviewCount": "4 403"}
+{"name": "Marriott's Grand Chateau", "price": "150€", "avg_review": 4.5, "reviewCount": "4 263"}
+{"name": "Oasis at Gold Spike", "price": "46€", "avg_review": 4.0, "reviewCount": "1 517"}
+{"name": "South Point Hotel and Casino", "price": "121€", "avg_review": 4.0, "reviewCount": "6 252"}
+{"name": "La Quinta Inn & Suites by Wyndham Las Vegas Red Rock", "price": "131€", "avg_review": 4.5, "reviewCount": "613"}
+{"name": "The Orleans Hotel & Casino", "price": "76€", "avg_review": 4.0, "reviewCount": "6 654"}
+{"name": "Downtown Grand", "price": "64€", "avg_review": 4.0, "reviewCount": "3 090"}
+{"name": "Motel 6 Las Vegas - Tropicana", "price": "56€", "avg_review": 3.5, "reviewCount": "592"}
+{"name": "La Quinta Inn & Suites by Wyndham Las Vegas Airport N Conv", "price": "93€", "avg_review": 3.0, "reviewCount": "1 419"}
+{"name": "Golden Gate Hotel & Casino", "price": "50€", "avg_review": 3.5, "reviewCount": "1 070"}
+{"name": "Sam's Town Hotel & Gambling Hall", "price": "68€", "avg_review": 4.0, "reviewCount": "2 171"}
+{"name": "El Cortez Hotel & Casino", "price": "46€", "avg_review": 3.5, "reviewCount": "1 907"}
+{"name": "Tropicana Las Vegas - A DoubleTree by Hilton Hotel", "price": "280€", "avg_review": 4.0, "reviewCount": "13 954"}
+{"name": "Cancun Resort Las Vegas", "price": "273€", "avg_review": 3.5, "reviewCount": "1 364"}
+{"name": "Arizona Charlie's Boulder", "price": "50€", "avg_review": 3.0, "reviewCount": "342"}
+{"name": "Santa Fe Station", "price": "69€", "avg_review": 3.0, "reviewCount": "320"}
+{"name": "Mardi Gras Hotel & Casino", "price": "37€", "avg_review": 3.0, "reviewCount": "1 656"}
+{"name": "Fortune Hotel & Suites", "price": "53€", "avg_review": 2.5, "reviewCount": "622"}
+{"name": "NoMad Las Vegas", "price": "169€", "avg_review": 4.5, "reviewCount": "652"}
+{"name": "Four Seasons Hotel Las Vegas", "price": "229€", "avg_review": 4.5, "reviewCount": "5 373"}
+{"name": "The Cromwell Hotel Las Vegas", "price": "145€", "avg_review": 4.5, "reviewCount": "6 156"}
+{"name": "Desert Paradise Resort", "price": "252€", "avg_review": 4.5, "reviewCount": "750"}
+{"name": "Downtowner Boutique Hotel", "price": "53€", "avg_review": 3.5, "reviewCount": "834"}
+{"name": "Platinum Hotel and Spa", "price": "154€", "avg_review": 4.5, "reviewCount": "4 096"}
+{"name": "Elara By Hilton Grand Vacations - Center Strip", "price": "122€", "avg_review": 4.5, "reviewCount": "8 122"}
+{"name": "Waldorf Astoria Las Vegas", "price": "224€", "avg_review": 4.0, "reviewCount": "642"}
+{"name": "Best Western Plus Casino Royale", "price": "84€", "avg_review": 4.0, "reviewCount": "2 999"}
+{"name": "Best Western Plus Las Vegas West", "price": "120€", "avg_review": 4.5, "reviewCount": "638"}
+{"name": "Gold Coast Hotel & Casino", "price": "61€", "avg_review": 4.0, "reviewCount": "2 007"}
+{"name": "The Grandview at Las Vegas", "price": "195€", "avg_review": 4.0, "reviewCount": "4 856"}
+{"name": "Nobu Hotel at Caesars Palace", "price": "149€", "avg_review": 4.5, "reviewCount": "2 348"}
+{"name": "Hampton Inn Tropicana", "price": "102€", "avg_review": 4.5, "reviewCount": "3 045"}
+{"name": "Ellis Island Hotel Super 8 Las Vegas", "price": "47€", "avg_review": 3.5, "reviewCount": "2 827"}
+{"name": "Hotel Apache", "price": "42€", "avg_review": 4.0, "reviewCount": "11"}
+{"name": "La Quinta Inn & Suites by Wyndham Las Vegas Summerlin Tech", "price": "118€", "avg_review": 4.0, "reviewCount": "754"}
+{"name": "Palms Place Hotel and Spa", "price": "129€", "avg_review": 4.0, "reviewCount": "2 675"}
+{"name": "Palace Station Hotel and Casino", "price": "75€", "avg_review": 4.0, "reviewCount": "193"}
+{"name": "Alexis Park Resort", "price": "89€", "avg_review": 3.0, "reviewCount": "1 379"}
+{"name": "La Quinta Inn & Suites by Wyndham Las Vegas Tropicana", "price": "75€", "avg_review": 4.0, "reviewCount": "529"}
+{"name": "Boulder Station Hotel and Casino", "price": "64€", "avg_review": 3.5, "reviewCount": "621"}
+{"name": "Fremont Hotel & Casino", "price": "66€", "avg_review": 3.5, "reviewCount": "1 326"}
+{"name": "Motel 6 Las Vegas - I- 15", "price": "56€", "avg_review": 2.5, "reviewCount": "91"}
+{"name": "Embassy Suites by Hilton Las Vegas", "price": "177€", "avg_review": 4.0, "reviewCount": "1 822"}
+{"name": "Arizona Charlies Decatur", "price": "75€", "avg_review": 3.0, "reviewCount": "230"}
+{"name": "Artisan Hotel", "price": "65€", "avg_review": 3.5, "reviewCount": "425"}
+{"name": "Jet Luxury @ The Signature Hotel", "price": "188€", "avg_review": 3.5, "reviewCount": "22"}
+{"name": "Motel 6 Las Vegas - Boulder Highway", "price": "56€", "avg_review": 2.5, "reviewCount": "85"}
+{"name": "Silver Sevens Hotel & Casino", "price": "1 075€", "avg_review": 3.5, "reviewCount": "1 806"}
+{"name": "Hyatt Place Las Vegas at Silverton Village", "price": "240€", "avg_review": 4.5, "reviewCount": "176"}
+{"name": "Hampton Inn & Suites Las Vegas Airport", "price": "102€", "avg_review": 4.5, "reviewCount": "2 182"}
+{"name": "Hilton Grand Vacations On Paradise", "price": "143€", "avg_review": 4.5, "reviewCount": "2 679"}
+{"name": "Hilton Garden Inn Las Vegas Strip South", "price": "130€", "avg_review": 4.5, "reviewCount": "1 314"}
+{"name": "Tahiti Vacation Club", "price": "92€", "avg_review": 4.0, "reviewCount": "599"}
+{"name": "Circa Resort & Casino", "price": "210€", "avg_review": 3.5, "reviewCount": "36"}
+{"name": "Best Western McCarran Inn", "price": "100€", "avg_review": 4.0, "reviewCount": "1 862"}
+{"name": "Springhill Suites by Marriott Las Vegas Convention Center", "price": "253€", "avg_review": 4.5, "reviewCount": "1 048"}
+{"name": "Hilton Grand Vacations at the Flamingo", "price": "163€", "avg_review": 4.0, "reviewCount": "2 386"}
+{"name": "California Hotel and Casino", "price": "70€", "avg_review": 4.0, "reviewCount": "847"}
+{"name": "JW Marriott Las Vegas Resort & Spa", "price": "254€", "avg_review": 4.0, "reviewCount": "2 363"}
+{"name": "Home2 Suites by Hilton Las Vegas Strip South", "price": "130€", "avg_review": 4.5, "reviewCount": "176"}
+{"name": "La Quinta Inn & Suites by Wyndham Las Vegas Nellis", "price": "106€", "avg_review": 4.5, "reviewCount": "572"}
+{"name": "Embassy Suites by Hilton Convention Center Las Vegas", "price": "163€", "avg_review": 3.5, "reviewCount": "2 079"}
+{"name": "Motel 6 Las Vegas, NV - Motor Speedway", "price": "74€", "avg_review": 4.0, "reviewCount": "19"}
+{"name": "Extended Stay America - Las Vegas - Valley View", "price": "84€", "avg_review": 3.0, "reviewCount": "198"}
+{"name": "DoubleTree by Hilton Las Vegas Airport", "price": "135€", "avg_review": 4.0, "reviewCount": "1 376"}
+{"name": "Travelodge by Wyndham Las Vegas Center Strip", "price": "72€", "avg_review": 3.0, "reviewCount": "1 390"}
+{"name": "Jockey Club", "price": "104€", "avg_review": 4.0, "reviewCount": "1 596"}
+{"name": "Westgate Flamingo Bay Resort", "price": "133€", "avg_review": 4.0, "reviewCount": "923"}
+{"name": "The Westin Las Vegas Hotel & Spa", "price": "244€", "avg_review": 4.0, "reviewCount": "3 978"}
+{"name": "Sonesta Simply Suites Las Vegas Convention Center", "price": "72€", "avg_review": 4.0, "reviewCount": "621"}
+{"name": "Hotel Galaxy", "price": "234€", "avg_review": 2.5, "reviewCount": "159"}
+{"name": "Hampton Inn & Suites Las Vegas-Red Rock/Summerlin", "price": "106€", "avg_review": 4.0, "reviewCount": "649"}
+{"name": "Club de Soleil All-Suite Resort", "price": "117€", "avg_review": 4.0, "reviewCount": "873"}
+{"name": "Howard Johnson", "price": "47€", "avg_review": 2.5, "reviewCount": "1 121"}
+{"name": "Element Las Vegas Summerlin", "price": "148€", "avg_review": 4.0, "reviewCount": "573"}
+{"name": "Extended Stay America - Las Vegas - Midtown", "price": "84€", "avg_review": 3.5, "reviewCount": "168"}
+{"name": "Longhorn Casino & Hotel", "price": "38€", "avg_review": 3.0, "reviewCount": "115"}
+{"name": "The Rita Suites", "price": "92€", "avg_review": 3.0, "reviewCount": "476"}
+{"name": "Residence Inn Las Vegas Airport", "price": "171€", "avg_review": 5.0, "reviewCount": "348"}
+{"name": "Homewood Suites by Hilton Las Vegas City Center", "price": "144€", "avg_review": 4.5, "reviewCount": "308"}
+{"name": "Hyatt Place Las Vegas", "price": "172€", "avg_review": 4.0, "reviewCount": "1 263"}
+{"name": "The Carriage House", "price": "139€", "avg_review": 4.5, "reviewCount": "1 881"}
+{"name": "The Cliffs at Peace Canyon", "price": "248€", "avg_review": 4.5, "reviewCount": "1 008"}
+{"name": "Renaissance Las Vegas Hotel", "price": "195€", "avg_review": 4.0, "reviewCount": "2 051"}
+{"name": "Courtyard by Marriott Las Vegas Convention Center", "price": "158€", "avg_review": 4.5, "reviewCount": "554"}
+{"name": "Hampton Inn Las Vegas/Summerlin", "price": "83€", "avg_review": 4.0, "reviewCount": "753"}
+{"name": "Holiday Inn Express & Suites Las Vegas - E Tropicana", "price": "121€", "avg_review": 4.5, "reviewCount": "8"}
+{"name": "Las Vegas Marriott", "price": "158€", "avg_review": 4.0, "reviewCount": "858"}
+{"name": "Palms Casino Resort", "price": "95€", "avg_review": 4.0, "reviewCount": "3 709"}
+{"name": "Extended Stay America - Las Vegas - East Flamingo", "price": "119€", "avg_review": 3.5, "reviewCount": "205"}
+{"name": "Thunderbird Boutique Hotel", "price": "39€", "avg_review": 3.5, "reviewCount": "136"}
+{"name": "Residence Inn by Marriott Las Vegas Hughes Center", "price": "139€", "avg_review": 4.0, "reviewCount": "564"}
+{"name": "Holiday Inn Express Las Vegas Nellis", "price": "105€", "avg_review": 4.0, "reviewCount": "211"}
+{"name": "Fairfield Inn & Suites Las Vegas Northwest", "price": "148€", "avg_review": 4.5, "reviewCount": "18"}
+{"name": "The Berkley, Las Vegas", "price": "141€", "avg_review": 4.5, "reviewCount": "176"}
+{"name": "Baymont by Wyndham Las Vegas South Strip", "price": "93€", "avg_review": 3.5, "reviewCount": "1 167"}
+{"name": "Siegel Select - Las Vegas Boulevard", "price": "75€", "avg_review": 3.0, "reviewCount": "131"}
+{"name": "Red Roof Inn Las Vegas", "price": "145€", "avg_review": 3.5, "reviewCount": "373"}
+{"name": "Staybridge Suites Las Vegas", "price": "158€", "avg_review": 4.5, "reviewCount": "1 031"}
+{"name": "Travelodge Las Vegas", "price": "167€", "avg_review": 3.0, "reviewCount": "682"}
+{"name": "Hampton Inn & Suites Las Vegas Convention Center", "price": "186€", "avg_review": 3.0, "reviewCount": "6"}
+{"name": "Serene Vegas", "price": "161€", "avg_review": 2.5, "reviewCount": "101"}
+{"name": "City Center Motel", "price": "46€", "avg_review": 2.0, "reviewCount": "50"}
+{"name": "Aviation Inn", "price": "56€", "avg_review": 3.0, "reviewCount": "83"}
+{"name": "Days Inn by Wyndham Las Vegas Wild Wild West Gambling Hall", "price": "107€", "avg_review": 3.0, "reviewCount": "2 525"}
+{"name": "Residence Inn by Marriott Las Vegas Convention Center", "price": "142€", "avg_review": 4.0, "reviewCount": "438"}
+{"name": "MGM Grand Hotel & Casino By Suiteness", "price": "99€", "avg_review": null, "reviewCount": "0"}
+{"name": "888 Two Bedroom Three Bath Suite At Signature Condo Hotel", "price": "1 183€", "avg_review": null, "reviewCount": "0"}
+{"name": "Fairfield Inn & Suites Las Vegas Airport South", "price": "185€", "avg_review": 5.0, "reviewCount": "6"}
+{"name": "Candlewood Suites Las Vegas - E Tropicana", "price": "135€", "avg_review": 5.0, "reviewCount": "5"}
+{"name": "Holiday Inn Club Vacations at Desert Club Resort", "price": "208€", "avg_review": 4.0, "reviewCount": "3 135"}
+{"name": "Hampton Inn Las Vegas Strip South", "price": "120€", "avg_review": 5.0, "reviewCount": "2"}
+{"name": "Comfort Inn & Suites Las Vegas", "price": "111€", "avg_review": 4.0, "reviewCount": "167"}
+{"name": "Travelodge by Wyndham Las Vegas Airport No/Near the Strip", "price": "64€", "avg_review": 3.5, "reviewCount": "1 038"}
+{"name": "Holiday Inn Express & Suites Las Vegas SW Spring Valley", "price": "156€", "avg_review": 4.0, "reviewCount": "160"}
+{"name": "Hilton Garden Inn Las Vegas City Center", "price": "125€", "avg_review": 4.5, "reviewCount": "261"}
+{"name": "TownePlace Suites Las Vegas City Center", "price": "191€", "avg_review": 4.5, "reviewCount": "43"}
+{"name": "Home2 Suites by Hilton Las Vegas Convention Center", "price": "139€", "avg_review": 5.0, "reviewCount": "1"}
+{"name": "Siegel Select - Flamingo", "price": "66€", "avg_review": 3.5, "reviewCount": "142"}
+{"name": "Fairfield Inn Las Vegas Convention Center", "price": "149€", "avg_review": 4.0, "reviewCount": "459"}
+{"name": "Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area", "price": "64€", "avg_review": 3.0, "reviewCount": "992"}
+{"name": "Home2 Suites by Hilton Las Vegas City Center", "price": "121€", "avg_review": 4.5, "reviewCount": "167"}
+{"name": "Main Street Station Casino Brewery Hotel", "price": "85€", "avg_review": 4.0, "reviewCount": "1 815"}
+{"name": "Four Points by Sheraton Las Vegas East Flamingo", "price": "138€", "avg_review": 3.5, "reviewCount": "679"}
+{"name": "Highland Inn", "price": "65€", "avg_review": 3.0, "reviewCount": "32"}
+{"name": "Motel 8 Las Vegas", "price": "70€", "avg_review": 3.0, "reviewCount": "57"}
+{"name": "TownePlace Suites Las Vegas Airport South", "price": "209€", "avg_review": 3.5, "reviewCount": "5"}
+{"name": "Sterling Gardens Hotel", "price": "46€", "avg_review": 2.5, "reviewCount": "29"}
+{"name": "OYO Hotel Gateway Las Vegas", "price": "110€", "avg_review": 1.0, "reviewCount": "8"}
+{"name": "Desert Hills Motel", "price": "46€", "avg_review": 1.5, "reviewCount": "16"}
+{"name": "Crown Motel", "price": "129€", "avg_review": 3.5, "reviewCount": "3"}
+{"name": "American Inn", "price": "71€", "avg_review": 3.5, "reviewCount": "8"}
+{"name": "Hard Rock Hotel and Casino", "price": "168€", "avg_review": 3.5, "reviewCount": "2"}
+{"name": "Bridger Inn Hotel Las Vegas", "price": "74€", "avg_review": 3.0, "reviewCount": "26"}
+{"name": "Siegel Select - Convention Center", "price": "83€", "avg_review": 3.0, "reviewCount": "203"}
+{"name": "Hotel Las Vegas Oasis", "price": "76€", "avg_review": 2.5, "reviewCount": "15"}
+{"name": "Travelers Bed & Breakfast", "price": "65€", "avg_review": 2.5, "reviewCount": "10"}
+{"name": "Eastside Cannery Casino & Hotel", "price": "947€", "avg_review": 4.0, "reviewCount": "892"}
+{"name": "Siegel Slots and Suites", "price": "49€", "avg_review": 2.0, "reviewCount": "42"}
+{"name": "Jet Luxury at The Vdara", "price": "131€", "avg_review": null, "reviewCount": "0"}
+{"name": "Virgin Hotels Las Vegas, Curio Collection by Hilton", "price": "168€", "avg_review": null, "reviewCount": "0"}
+{"name": "ABZ Convention Center Condos", "price": "258€", "avg_review": null, "reviewCount": "0"}
+{"name": "Welcome House Las Vegas", "price": "74€", "avg_review": null, "reviewCount": "0"}
+{"name": "Luxury Suites International At The Signature", "price": "176€", "avg_review": null, "reviewCount": "0"}
+{"name": "Residence Inn Las Vegas South", "price": null, "avg_review": 4.0, "reviewCount": "384"}
+{"name": "Homewood Suites by Hilton Las Vegas Airport", "price": null, "avg_review": 4.0, "reviewCount": "1 194"}
+{"name": "Tru by Hilton Las Vegas Airport", "price": null, "avg_review": 4.0, "reviewCount": "406"}
+{"name": "Courtyard Las Vegas South", "price": null, "avg_review": 4.0, "reviewCount": "285"}
+{"name": "Bluegreen Club 36", "price": null, "avg_review": 4.0, "reviewCount": "1 046"}
+{"name": "Holiday Inn Express Las Vegas South", "price": null, "avg_review": 4.0, "reviewCount": "477"}
+{"name": "Fairfield Inn & Suites Las Vegas South", "price": null, "avg_review": 4.0, "reviewCount": "253"}
+{"name": "Royal Resort", "price": null, "avg_review": 3.5, "reviewCount": "680"}
+{"name": "Texas Station Gambling Hall and Hotel", "price": null, "avg_review": 3.5, "reviewCount": "355"}
+{"name": "Meridian Luxury Suites", "price": null, "avg_review": 4.0, "reviewCount": "95"}
+{"name": "Desert Moon Motel", "price": null, "avg_review": 4.5, "reviewCount": "14"}
+{"name": "The Mansion at MGM Grand", "price": null, "avg_review": 5.0, "reviewCount": "52"}
+{"name": "Owners Suites at Signature", "price": null, "avg_review": 4.0, "reviewCount": "75"}
+{"name": "Aztec Inn", "price": null, "avg_review": 3.5, "reviewCount": "32"}
+{"name": "Jerry's Nugget", "price": null, "avg_review": 3.5, "reviewCount": "21"}
+{"name": "Rodeway Inn", "price": null, "avg_review": 3.5, "reviewCount": "43"}
+{"name": "Skylofts at MGM Grand", "price": null, "avg_review": 5.0, "reviewCount": "502"}
+{"name": "Club Wyndham Grand Desert", "price": null, "avg_review": 4.5, "reviewCount": "2 891"}
+{"name": "Desert Rose Resort", "price": null, "avg_review": 4.5, "reviewCount": "4 335"}
+{"name": "Silverton Hotel and Casino", "price": null, "avg_review": 4.0, "reviewCount": "3 055"}
+{"name": "ARIA Sky Suites", "price": null, "avg_review": 4.5, "reviewCount": "3 192"}
+{"name": "El Cortez Cabana Suites", "price": null, "avg_review": 4.0, "reviewCount": "270"}
+{"name": "Courtyard by Marriott Las Vegas Summerlin", "price": null, "avg_review": 4.0, "reviewCount": "207"}
+{"name": "Secret Suites at Vdara", "price": null, "avg_review": 5.0, "reviewCount": "13"}
+{"name": "Siena Suites", "price": null, "avg_review": 3.0, "reviewCount": "446"}
+{"name": "Fiesta Rancho Hotel and Casino", "price": null, "avg_review": 3.0, "reviewCount": "137"}
+{"name": "Roulette Motel", "price": null, "avg_review": 3.5, "reviewCount": "2"}
+{"name": "Atrium Suites Hotel Las Vegas", "price": null, "avg_review": 3.0, "reviewCount": "43"}
+{"name": "Oakwood at Summerlin", "price": null, "avg_review": 2.0, "reviewCount": "3"}
+{"name": "Alpine Motel", "price": null, "avg_review": 2.5, "reviewCount": "3"}
+{"name": "Fremont Plaza Hotel", "price": null, "avg_review": 2.0, "reviewCount": "50"}
+{"name": "Las Vegas Mini Castle", "price": null, "avg_review": 3.5, "reviewCount": "28"}
+{"name": "Vegas Motel", "price": null, "avg_review": 5.0, "reviewCount": "2"}
+{"name": "Capri Motel", "price": null, "avg_review": 4.5, "reviewCount": "3"}
+{"name": "Regency Motel", "price": null, "avg_review": 4.0, "reviewCount": "5"}
+{"name": "Las Vegas by Night", "price": null, "avg_review": 3.5, "reviewCount": "8"}
+{"name": "Koala Motel & Apartments", "price": null, "avg_review": 5.0, "reviewCount": "2"}
+{"name": "Golden West Motel", "price": null, "avg_review": 5.0, "reviewCount": "1"}
+{"name": "Queen of Hearts Hotel & Casino", "price": null, "avg_review": 4.5, "reviewCount": "2"}
+{"name": "Daisy Motel and Apartments", "price": null, "avg_review": 4.0, "reviewCount": "2"}
+{"name": "Apache Motel", "price": null, "avg_review": 4.0, "reviewCount": "1"}
+{"name": "Las Vegas Downtown Thriftlodge", "price": null, "avg_review": 4.0, "reviewCount": "1"}
+{"name": "Boulder Palms Luxury Suites", "price": null, "avg_review": 4.0, "reviewCount": "1"}
+{"name": "Monterey Grand Manor", "price": null, "avg_review": 3.5, "reviewCount": "2"}
+{"name": "Streamline Luxury Suites", "price": null, "avg_review": 5.0, "reviewCount": "1"}
+{"name": "Lucky Motel", "price": null, "avg_review": 3.0, "reviewCount": "1"}
+{"name": "Vista Motel", "price": null, "avg_review": 3.0, "reviewCount": "1"}
+{"name": "Thriftlodge Las Vegas Strip North", "price": null, "avg_review": 3.0, "reviewCount": "1"}
+{"name": "Friendship Inn King Albert", "price": null, "avg_review": 2.0, "reviewCount": "1"}
+{"name": "Oakwood At Oasis Gateway", "price": null, "avg_review": 2.0, "reviewCount": "1"}
+{"name": "Crest Budget Inn Motel", "price": null, "avg_review": 1.0, "reviewCount": "1"}
+{"name": "La Palm Motel", "price": null, "avg_review": 2.0, "reviewCount": "2"}
+{"name": "A Fisher's Inn Motel", "price": null, "avg_review": 2.5, "reviewCount": "6"}
+{"name": "Shalimar Hotel of Las Vegas", "price": null, "avg_review": 3.0, "reviewCount": "284"}
+{"name": "Emerald Suites Cameron", "price": null, "avg_review": 2.5, "reviewCount": "15"}
+{"name": "Super 8 by Wyndham Las Vegas Nellis Afb Area", "price": null, "avg_review": 2.5, "reviewCount": "355"}
+{"name": "Crossland Economy Studios - Las Vegas - Boulder Highway", "price": null, "avg_review": 2.5, "reviewCount": "64"}
+{"name": "Emerald Suites - Convention Center", "price": null, "avg_review": 2.0, "reviewCount": "20"}
+{"name": "Knights Inn Las Vegas", "price": null, "avg_review": 1.5, "reviewCount": "35"}
+{"name": "Nellis Suites at Main Gate", "price": null, "avg_review": 2.5, "reviewCount": "74"}
+{"name": "Emerald Suites", "price": null, "avg_review": 2.5, "reviewCount": "53"}
+{"name": "Manor Suites", "price": null, "avg_review": 2.5, "reviewCount": "37"}
+{"name": "Rummel Motel", "price": null, "avg_review": 1.0, "reviewCount": "2"}
+{"name": "The Suites- Boulder Strip", "price": null, "avg_review": 1.5, "reviewCount": "5"}
+{"name": "Town and Country Manor", "price": null, "avg_review": 1.5, "reviewCount": "3"}
+{"name": "Nevada Hotel & Casino", "price": null, "avg_review": 2.0, "reviewCount": "5"}
+{"name": "Budget Suites of America Tropicana I-15", "price": null, "avg_review": 2.5, "reviewCount": "32"}
+{"name": "Budget Suites of America - Wynn", "price": null, "avg_review": 2.0, "reviewCount": "29"}
+{"name": "Fun City Motel", "price": null, "avg_review": 1.5, "reviewCount": "12"}
+{"name": "Town and Country Manor III", "price": null, "avg_review": 1.5, "reviewCount": "27"}
+{"name": "The Suites", "price": null, "avg_review": 1.5, "reviewCount": "36"}
+{"name": "Budget Suites of America North Rancho Drive", "price": null, "avg_review": 1.5, "reviewCount": "32"}
+{"name": "Sportsman's Royal Manor", "price": null, "avg_review": 2.5, "reviewCount": "23"}
+{"name": "Olympian Palms Resort Hotel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Town Lodge Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Laughing Jackalope Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "St. Louis Manor", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Chapman Guest House", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Oakwood at Tuscany", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Walden Motel", "price": null, "avg_review": 2.0, "reviewCount": "3"}
+{"name": "Holiday Motel", "price": null, "avg_review": 2.5, "reviewCount": "14"}
+{"name": "Circus Circus Manor Motor Lodge", "price": null, "avg_review": 2.5, "reviewCount": "336"}
+{"name": "Budget Suites of America - Las Vegas", "price": null, "avg_review": 2.0, "reviewCount": "21"}
+{"name": "Palms Place by Cream", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "WorldMark Las Vegas Boulevard", "price": null, "avg_review": 4.0, "reviewCount": "438"}
+{"name": "Club Wyndham Desert Blue", "price": null, "avg_review": 4.0, "reviewCount": "233"}
+{"name": "WorldMark Tropicana", "price": null, "avg_review": 4.0, "reviewCount": "246"}
+{"name": "Sin City Hostel", "price": null, "avg_review": 3.5, "reviewCount": "190"}
+{"name": "Thousand Trails Las Vegas RV Resort", "price": null, "avg_review": 3.5, "reviewCount": "632"}
+{"name": "Travelers Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Royal Oasis Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Meadows Inn", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Great Western Rainbow Vegas", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Del Mar Resort", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Boulder Manor", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Firebird Inn", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Sunrise Vista Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Ambassador East Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Oakwood at Village Green", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "John E Carson Hotel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Lucky Cuss Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Travelers Inn Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Purple Sage Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Oakwood at Desert Shores", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Oakwood at Lakes Peccole Ranch", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Oasis Las Vegas RV Resort", "price": null, "avg_review": 4.5, "reviewCount": "496"}
+{"name": "Las Vegas Motorcoach Resort", "price": null, "avg_review": 4.5, "reviewCount": "76"}
+{"name": "Las Vegas RV Resort", "price": null, "avg_review": 4.0, "reviewCount": "114"}
+{"name": "Hitchin' Post RV Park & Motel", "price": null, "avg_review": 4.0, "reviewCount": "105"}
+{"name": "Lamplighter Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "888 Deluxe Suite at Signature Condo Hotel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Oakwood at Indian Ridge", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Las Vegas KOA at Sam's Town", "price": null, "avg_review": 4.0, "reviewCount": "377"}
+{"name": "Hostel Cat", "price": null, "avg_review": 4.0, "reviewCount": "327"}
+{"name": "Las Vegas Hostel", "price": null, "avg_review": 3.0, "reviewCount": "526"}
+{"name": "Value Place - Las Vegas (Nellis AFB)", "price": null, "avg_review": 4.0, "reviewCount": "5"}
+{"name": "WorldMark Las Vegas - Spencer Street", "price": null, "avg_review": 4.0, "reviewCount": "1"}
+{"name": "Travel Inn Downtown Las Vegas", "price": null, "avg_review": 2.5, "reviewCount": "6"}
+{"name": "Economy Motel", "price": null, "avg_review": 2.5, "reviewCount": "7"}
+{"name": "One Love Nude Temple Resort and Retreat", "price": null, "avg_review": 4.5, "reviewCount": "39"}
+{"name": "Duck Creek RV Park", "price": null, "avg_review": 4.0, "reviewCount": "63"}
+{"name": "Arizona Charlie's Boulder RV Park", "price": null, "avg_review": 3.5, "reviewCount": "43"}
+{"name": "Air Force Inn Nellis AFB", "price": null, "avg_review": 4.0, "reviewCount": "27"}
+{"name": "Holiday Royale Apartment Suites", "price": null, "avg_review": 4.0, "reviewCount": "50"}
+{"name": "Bally's Las Vegas", "price": null, "avg_review": 3.5, "reviewCount": "14"}
+{"name": "Tod Motor Motel", "price": null, "avg_review": 3.5, "reviewCount": "57"}
+{"name": "The RV Park at Circus Circus", "price": null, "avg_review": 3.0, "reviewCount": "253"}
+{"name": "King's Row RV Park", "price": null, "avg_review": 3.5, "reviewCount": "13"}
+{"name": "Peterson Motel & Apartments", "price": null, "avg_review": 3.5, "reviewCount": "8"}
+{"name": "Kosher Bed & Breakfast", "price": null, "avg_review": 5.0, "reviewCount": "2"}
+{"name": "The Hollywood Dorms Las Vegas", "price": null, "avg_review": 4.0, "reviewCount": "1"}
+{"name": "Siegel Suites", "price": null, "avg_review": 3.0, "reviewCount": "50"}
+{"name": "Boulder Lakes RV Resort", "price": null, "avg_review": 4.0, "reviewCount": "1"}
+{"name": "Road Runner RV Park", "price": null, "avg_review": 3.0, "reviewCount": "18"}
+{"name": "Swenson Apartments", "price": null, "avg_review": 2.0, "reviewCount": "1"}
+{"name": "Las Vegas, New Mexico KOA", "price": null, "avg_review": 2.5, "reviewCount": "3"}
+{"name": "Diamond Inn Motel", "price": null, "avg_review": 2.5, "reviewCount": "12"}
+{"name": "Siegel Suites - Tropicana", "price": null, "avg_review": 2.0, "reviewCount": "66"}
+{"name": "Diamond Resorts Intl", "price": null, "avg_review": 1.5, "reviewCount": "120"}
+{"name": "Advantage Court", "price": null, "avg_review": 3.5, "reviewCount": "3"}
+{"name": "888 Convention Center Condos", "price": null, "avg_review": 3.0, "reviewCount": "1"}
+{"name": "Desert Tides", "price": null, "avg_review": 2.5, "reviewCount": "49"}
+{"name": "On The Vegas Boulevard Hotel", "price": null, "avg_review": 2.5, "reviewCount": "42"}
+{"name": "Abz Signature Suites", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Casa Novona", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Signature Rental by Owner Direct", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Vegas Modern Home", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Victory Hotel Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Las Vegas Luxury Vacation", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Fairway Villas", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Dignitary Discretion Las Vegas", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "WestSide Delight", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Bposhtels Las Vegas", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "5615 Properties", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "StripViewSuites at Palms Place", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Luxury Suites at Palms Place", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Lovely Condo! Walking Distance To The Strip With Pool And Spa", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Cheyenne Crossing", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Las Vegas Luxury Vacation Villa", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Skyline Motel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Jet Luxury At The Vdara Condo Hotel", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Country Club Towers", "price": null, "avg_review": null, "reviewCount": "0"}
+{"name": "Hotel Wind", "price": null, "avg_review": null, "reviewCount": "0"}
